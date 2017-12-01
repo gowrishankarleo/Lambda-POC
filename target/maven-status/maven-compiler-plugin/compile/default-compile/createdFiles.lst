@@ -1,0 +1,9 @@
+mwatch\lambda\KinesisRecordDeaggregator$KinesisUserRecordProcessor.class
+mwatch\lambda\S3Handler.class
+mwatch\lambda\HttpLogData.class
+mwatch\lambda\EmailNotification.class
+mwatch\lambda\KinesisRecordDeaggregator.class
+mwatch\lambda\PublishToSNS.class
+mwatch\lambda\SNSHandler.class
+mwatch\lambda\KinesisHandler.class
+mwatch\lambda\TestJSONparsing.class

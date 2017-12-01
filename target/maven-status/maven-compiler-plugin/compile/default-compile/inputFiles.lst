@@ -1,0 +1,8 @@
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\EmailNotification.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\TestJSONparsing.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\S3Handler.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\KinesisHandler.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\HttpLogData.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\KinesisRecordDeaggregator.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\PublishToSNS.java
+D:\workspace\MW_BS\mwatch-lambda-poc\src\main\java\mwatch\lambda\SNSHandler.java
