@@ -43,12 +43,15 @@ public class S3Handler {
 					while ((jsonString = buffer.readLine()) != null) {
 						HttpLogData httpData = mapper.readValue(jsonString,
 								HttpLogData.class);
+						if(httpData.getCode()!= 200)
+						{
 						String subject = "EC2 Http Error - " + httpData.getCode()
 								+ " error while accessing path - "
 								+ httpData.getPath();
 						String message = httpData.toString();
 						EmailNotification.sendEmail(subject, message, context);
 						logger.log(message);
+						}
 					}
 
 				}
