@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>doc-examples</groupId>
 	<artifactId>lambda-java-poc</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.${v}-SNAPSHOT</version>
 	<name>lambda-java-poc</name>
 	<properties>
 		<maven.compiler.source>1.8</maven.compiler.source>
