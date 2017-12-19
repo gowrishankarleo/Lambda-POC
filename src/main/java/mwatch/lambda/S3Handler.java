@@ -17,7 +17,7 @@ import com.amazonaws.services.s3.model.S3Object;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 public class S3Handler {
-	// Handle S3 Event
+	// Handle S3 Event ...
 	public String handleRequest(S3Event s3event, Context context) {
 		LambdaLogger logger = context.getLogger();
 		try {
